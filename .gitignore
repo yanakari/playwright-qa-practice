@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Playwright generated files
+test-results/
+playwright-report/
+
+# Debug
+playwright/.cache/
